@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|resources|favicon\.gif)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+<Files ".ht*">
+    Require all denied
+</Files>

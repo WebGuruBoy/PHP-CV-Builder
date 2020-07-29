@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="816" height="1055" viewBox="0 0 816 1055" style="margin:0 auto; __background:url(img/pcf1.png) no-repeat 0 0;">
+	<defs>
+		<style>
+			.h1{font-family:Palatino Linotype; font-size:27px; fill:#ffffff; font-weight:bold; __fill:red;}
+			.p{font-family:Palatino Linotype; font-size:13px; fill:#333; __fill:red;}
+			.pb{font-family:Palatino Linotype; font-size:13px; font-weight:bold; fill:#333; __fill:red;}
+			.pi{font-family:Palatino Linotype; font-style:italic; font-size:13px;  fill:#333; __fill:red;}
+			.h2{font-family:Palatino Linotype; font-size:15px; fill:#333; font-weight:bold; __fill:red;}
+			.li-circle {fill:#000000; _fill:red}
+			.text-cap {text-transform:capitalize;}
+			.em{font-style: italic;}
+		</style>
+	</defs>
+
+	<rect x="33" y="45" width="750" height="68" fill="#333"/>
+	<rect x="33" y="113" width="750" height="32" fill="#f1eded"/>
+	<text x="295" y="89" class="h1">CHRISTINA JOHNSON</text>
+	<line x1="33" y1="147" x2="783" y2="147" stroke="#333366" stroke-width="1"/>
+	<rect x="33" y="151" width="750" height="3" fill="#000000"/>
+
+
+	<rect x="346" y="130" height="6" width="6" class="li-circle"/>
+	<rect x="467" y="130" height="6" width="6" class="li-circle"/>
+	<rect x="587" y="130" height="6" width="6" class="li-circle"/>
+
+    <text x="70" y="137" class="p">24 Harbour Lane , St Albans , Herts AL13 4AZ
+		<tspan x="360">H: 01727 756423</tspan>
+		<tspan x="480">M: 07984 598985</tspan>
+		<tspan x="600">cjohnson111@live.co.uk</tspan>
+	</text>
+
+
+	<text x="33" y="185" class="h2">OBJECTIVE</text>
+	<text x="33" y="205" class="p">To find a fulfilling position where I can apply my skills and knowledge.</text>
+	
+	<text x="33" y="235" class="h2">PROFESSIONAL SUMMARY</text>
+	<text x="33" y="255" class="p">Accomplished Operations executive with a successful track record overseeing regional Marketing, IT, HR/training and
+		<tspan x="33" y="265" dx="0" dy="10" class="p"> property in company and franchise operations for a large chain of restaurants.</tspan> 
+	</text>
+	
+
+
+	<rect x="51" y="322" height="6" width="6" class="li-circle"/>
+	<rect x="425" y="322" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="342" height="6" width="6" class="li-circle"/>
+	<rect x="425" y="342" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="382" height="6" width="6" class="li-circle"/>
+	<rect x="425" y="362" height="6" width="6" class="li-circle"/>
+
+	<text x="33" y="305" class="h2">SKILLS</text>
+	<text x="65" y="330" class="p">Executive team leadership</text>	
+	<text x="65" y="350" class="p">Multi-million pound P&amp;L management
+		<tspan x="65" y="360" dx="0" dy="10">expertise for South East region</tspan>
+	</text>
+	<text x="65" y="390" class="p">Client/Vendor relations</text>
+	
+	<text x="440" y="330" class="p">Marketing/product line development</text>
+	<text x="440" y="350" class="p">Staff/training policy development</text>		
+	<text x="440" y="370" class="p">Process improvement</text>
+
+	<rect x="51" y="438" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="477" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="497" height="6" width="6" class="li-circle"/>	
+
+	<text x="33" y="420" class="h2">ACHIEVEMENTS</text>	
+	<text x="65" y="445" class="p">Initiated regional growth for 200+ restaurants through development of people and processes in Marketing, 
+		<tspan x="65" y="455" dx="0" dy="10">HR, Finance and IT to run the brand.</tspan>
+	</text>
+	<text x="65" y="485" class="p">Administered and executed multi-million pound P&amp;L for several locations.</text>
+	<text x="65" y="505" class="p">Successfully decreased food costs by £1 million.</text>	
+	
+	<rect x="51" y="588" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="628" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="647" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="727" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="747" height="6" width="6" class="li-circle"/>
+	<rect x="51" y="767" height="6" width="6" class="li-circle"/>
+	<text x="33" y="535" class="h2">EXPERIENCE</text>	
+	<text x="33" y="555" class="pb">Executive Vice President</text>
+	<text x="33" y="575" class="p"><tspan class="em">Pizza Hut UK &amp; Ireland - St Albans, Herts</tspan></text>
+	<text x="678" y="575" class="pb">09/2009 - 03/2011</text>
+
+	<text x="64" y="595" class="p">Led operations involved in running the brand including Marketing, IT, HR/training, development/construction,
+		<tspan x="64" y="595" dx="0" dy="20">property and P&amp;L for 200 store locations.</tspan>
+	</text>
+	<text x="64" y="635" class="p">Oversaw operations for all regional company and franchise locations. 		
+	</text>
+	<text x="64" y="655" class="p">Assessed profitability of existing company processes to determine optimum organisational structure for
+		<tspan x="64" y="655" dx="0" dy="20">maximum revenue growth.</tspan>
+	</text>	
+	<text x="33" y="695" class="pb">Senior Vice President</text>
+	<text x="33" y="715" class="p"><tspan class="em">Café Rouge - London</tspan></text>
+	<text x="678" y="715" class="pb">08/1997 - 09/2009</text>
+
+	<text x="64" y="735" class="p">Directed departmental alignment on strategies to create strong sales.</text>
+	<text x="64" y="755" class="p">Cultivated strong franchise owner relationships to achieve high operating standards.	</text>
+	<text x="64" y="775" class="p">Implemented process improvements to increase customer loyalty and satisfaction.</text>	
+
+
+
+	<text x="33" y="805" class="h2">EDUCATION</text>
+	<text x="33" y="815" class="p">
+		<tspan x="33" y="825" class="pb">BA (Hons): </tspan>
+		<tspan dx="10" dy="0" class="p"> Business Management</tspan>
+		<tspan x="33" y="830" dx="0" dy="15" class="p"><tspan class="em">University of Westminster - Greater London</tspan></tspan>
+		<tspan x="33" y="840" dx="0" dy="25" class="p">Coursework includes: Speech and Communication, Sociology and Psychology</tspan>		
+	</text>
+	<text x="754" y="840" class="pb">1991</text>
+	
+	<text x="33" y="895" class="h2">AWARDS</text>
+	<text x="33" y="915" class="p">Distinguished Service Award, 2011</text>
+	
+	<text x="33" y="945" class="h2">QUALIFICATIONS</text>
+	<text x="33" y="965" class="p">CGMA (Chartered Global Management Accountant) conferred by the Chartered Institute of Management
+		<tspan x="33" y="965" dx="0" dy="20">Accountants (CIMA), 2010</tspan>
+	</text>	
+	
+</svg>

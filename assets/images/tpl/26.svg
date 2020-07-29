@@ -1,0 +1,100 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto;">
+	<defs>
+		<style>
+			text{fill:#231f20;font-size:15px;}
+			rect{stroke:#999;stroke-width:1;fill:transparent;}
+			.ffpl{font-family:"Palatino Linotype", Helvetica, sans-serif;}
+			.ffcg{font-family:"Century Gothic", Helvetica, sans-serif;}
+			.rectname{font-size:44px;}
+			.fwb{font-weight:bold;}
+			.disc{fill:black;}
+			.heading{fill:#231f20;font-size:16px;}
+			.name{fill:#231f20;font-size:48px;letter-spacing: 1px;}
+			.address{fill:#231f20;font-size:14px;}
+			.summary-text{font-size:15px;}
+			.dashed-border{stroke: rgba(0, 0, 0, 0.3);stroke-width: 2px;}
+			<!-- *{fill:red!important;opacity:1;} -->
+		</style>
+	</defs>
+
+	<text x="255" y="90" class="name ffpl" textLength="383">Christina Johnson</text>
+	<text x="276" y="133" class="address ffcg">24 Harbour Lane, St Albans, Herts, AL13 4AZ</text>
+	<text x="245" y="150" class="address ffcg">H:017-277-56423 C:079-845-98985 M: cjohnson@live.co.uk</text>
+	
+	<line stroke-dasharray="3, 3" x1="52" y1="194" x2="764" y2="194" class="dashed-border"/>
+	
+	<text x="53" y="228" class="heading ffpl fwb">OBJECTIVE</text>
+	<text x="101" y="250" class="summary-text ffcg" textLength="540">To find a fulfilling position where I can apply my skills and knowledge.</text>	
+
+	<text x="53" y="276" class="heading ffpl fwb">PROFESSIONAL SUMMARY</text>
+	<text x="101" y="298" class="summary-text ffcg" textLength="610">Accomplished Operations executive with a successful track record overseeing regional</text>
+	<text x="101" y="318" class="ffcg" textLength="623"> Marketing, IT, HR/training and property in company and franchise operations for a</text>
+	<text x="101" y="338" class="ffcg" textLength="196"> large chain of restaurants.</text>
+	
+	<text x="53" y="364" class="heading ffpl fwb">SKILLS</text>
+	
+	<circle cx="104" cy="381" r="3" class="disc" />
+	<circle cx="104" cy="400" r="3" class="disc" />
+	<circle cx="104" cy="440" r="3" class="disc" />
+	<circle cx="435" cy="381" r="3" class="disc" />
+	<circle cx="435" cy="400" r="3" class="disc" />
+	<circle cx="435" cy="420" r="3" class="disc" />
+
+	<text x="118" y="386" class="ffcg" textLength="188">Executive team leadership</text>
+	<text x="118" y="406" class="ffcg" textLength="268">Multi-million pound P&amp;L management</text>
+	<text x="118" y="426" class="ffcg">expertise for South East region</text>
+	<text x="118" y="446" class="ffcg">Client/Vendor relations</text>
+	<text x="450" y="386" class="ffcg">Marketing/product line development</text>
+	<text x="450" y="406" class="ffcg">Staff/training policy development</text>
+	<text x="450" y="426" class="ffcg">Process improvement</text>
+	
+	<text x="53" y="472" class="heading ffpl fwb">ACHIEVEMENTS</text>
+	
+	<circle cx="104" cy="492" r="3" class="disc" />
+	<circle cx="104" cy="532" r="3" class="disc" />
+	<circle cx="104" cy="552" r="3" class="disc" />
+	
+	<text x="118" y="498" class="ffcg" textLength="623">Initiated regional growth for 200+ restaurants through development of people and  </text>
+	<text x="118" y="518" class="ffcg" textLength="404">processes in Marketing, HR, Finance and IT to run the brand.</text>
+	<text x="118" y="538" class="ffcg" textLength="627">Administered and executed multi-million pound P&amp;L for several locations.</text>
+	<text x="118" y="558" class="ffcg">Successfully decreased food costs by £1 million.</text>
+	
+	<text x="53" y="585" class="heading ffpl fwb">EXPERIENCE</text>
+	<text x="101" y="610" class="ffcg fwb">EXECUTIVE VICE PRESIDENT</text>
+	<text x="298" y="610" class="ffcg">| 09/2009 to 03/2011</text>
+	<text x="101" y="630" class="ffcg">Pizza Hut UK &amp; Ireland – St Albans, Herts</text>
+
+	<circle cx="104" cy="648" r="3" class="disc"/>
+	<circle cx="104" cy="688" r="3" class="disc"/>
+	<circle cx="104" cy="706" r="3" class="disc"/>
+	
+	<text x="118" y="652" class="ffcg" textLength="620">Led operations involved in running the brand including Marketing, IT, HR/training, </text>
+	<text x="118" y="672" class="ffcg" textLength="494">development/construction, property and P&amp;L for 200 store locations.</text>
+	<text x="118" y="692" class="ffcg" textLength="527">Oversaw operations for all regional company and franchise locations.</text>
+	<text x="118" y="712" class="ffcg" textLength="567">Assessed profitability of existing company processes to determine optimum </text>
+	<text x="118" y="732" class="ffcg" textLength="440">organisational structure for maximum revenue growth.</text>
+	
+	<text x="101" y="758" class="ffcg fwb">SENIOR VICE PRESIDENT</text>
+	<text x="276" y="758" class="ffcg">| 08/1997 to 09/2009</text>
+	<text x="101" y="778" class="ffcg">Café Rouge – London</text>
+	
+	<circle cx="104" cy="796" r="3" class="disc"/>
+	<circle cx="104" cy="815" r="3" class="disc"/>
+	<circle cx="104" cy="836" r="3" class="disc"/>
+	
+	<text x="118" y="800" class="ffcg" textLength="520">Directed departmental alignment on strategies to create strong sales.</text>
+	<text x="118" y="820" class="ffcg" textLength="594">Cultivated strong franchise owner relationships to achieve high operating standards.</text>
+	<text x="118" y="840" class="ffcg" textLength="527">Implemented process improvements to increase customer loyalty and satisfaction.</text>	
+	
+	<text x="53" y="866" class="heading ffpl fwb">EDUCATION</text>
+	<text x="101" y="888" class="ffcg fwb" textLength="562">University of Westminster, Greater London | BA (Hons): Business Management</text>
+	<text x="101" y="908" class="ffcg" textLength="626">Coursework includes: Speech and Communication, Sociology and Psychology 1991</text>		
+	
+	<text x="53" y="932" class="heading ffpl fwb">AWARDS</text>
+	<text x="101" y="952" class="ffcg fwb" textLength="262">Distinguished Service Award, 2011</text>
+	
+	<text x="53" y="976" class="heading ffpl fwb">QUALIFICATIONS</text>
+	<text x="101" y="996" class="ffcg fwb" textLength="567">CGMA (Chartered Global Management Accountant) conferred by the Chartered </text>
+	<text x="101" y="1016" class="ffcg fwb" textLength="390">Institute of Management Accountants (CIMA), 2010</text>
+</svg>

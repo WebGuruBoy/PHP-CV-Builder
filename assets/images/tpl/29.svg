@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" font-family="Arial, Helvetica, sans-serif" font-weight="400" style="margin:0 auto;">
+	<defs>
+		<style>
+			.disc{fill:black;}
+		</style>
+	</defs>
+
+	<circle cx="173" cy="86" r="35" stroke="#0c8de2" stroke-width="1" fill="#fff" />
+	<text x="152" y="97" textLength="42" font-size="36" fill="#231f20">CJ</text>
+	<g class="disc">
+		<circle cx="262" cy="419" r="3"/>
+		<circle cx="262" cy="463" r="3"/>
+		<circle cx="262" cy="485" r="3"/>
+		<circle cx="262" cy="561" r="3"/>
+		<circle cx="262" cy="602" r="3"/>
+		<circle cx="262" cy="624" r="3"/>
+
+		<circle cx="262" cy="725" r="3"/>
+		<circle cx="262" cy="748" r="3"/>
+		<circle cx="262" cy="792" r="3"/>
+
+		<circle cx="262" cy="297" r="3"/>
+		<circle cx="262" cy="319" r="3"/>
+		<circle cx="262" cy="387" r="3"/>
+		<circle cx="524" cy="297" r="3"/>
+		<circle cx="524" cy="340" r="3"/>
+		<circle cx="524" cy="362" r="3"/>
+	</g>
+	<g stroke="#434d54" stroke-width="1" fill="#fff">
+		<circle cx="230" cy="194" r="7" />
+		<circle cx="230" cy="226" r="7" />
+		<circle cx="230" cy="296" r="7" />
+		<circle cx="230" cy="418" r="7" />
+		<circle cx="230" cy="518" r="7" />
+		<circle cx="230" cy="681" r="7" />
+		<circle cx="230" cy="822" r="7" />
+		<circle cx="230" cy="897" r="7" />
+		<circle cx="230" cy="928" r="7" />
+	</g>
+	<g>
+		<line x1="230" y1="201" x2="230" y2="219" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="233" x2="230" y2="289" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="302" x2="230" y2="411" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="425" x2="230" y2="512" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="525" x2="230" y2="675" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="688" x2="230" y2="816" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="829" x2="230" y2="891" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="904" x2="230" y2="922" style="stroke:#434d54;stroke-width:1" />
+		<line x1="230" y1="935" x2="230" y2="970" style="stroke:#434d54;stroke-width:1" />
+	</g>
+	 <g  font-size="44" fill="#0c8de2">
+		<text x="230" y="88" textLength="349">Christina Johnson</text>
+	</g>
+	<g font-size="16" font-weight="700" fill="#0c8de2">
+		<text x="93" y="200" textLength="92">OBJECTIVE</text>
+		<text x="93" y="232" textLength="116">PROFESSIONAL</text>
+		<text x="131" y="252" textLength="78">SUMMARY</text>
+		<text x="155" y="302" textLength="54">SKILLS</text>
+		<text x="93" y="423" textLength="116">ACHIEVEMENTS</text>
+		<text x="95" y="524" textLength="100">EXPERIENCE</text>
+		<text x="93" y="827" textLength="89">EDUCATION</text>
+		<text x="93" y="902" textLength="69">AWARDS</text>
+		<text x="93" y="933" textLength="119">QUALIFICATIONS</text>
+	</g>
+	<g font-size="16" fill="#231f20">
+		<text x="230" y="118" textLength="422">H: 017-277-56423 | C: 079-845-98985 | E: cjohnson111@live.co.uk</text>
+		<text x="230" y="139" textLength="320">24 Harbour Lane, St Albans, Herts AL13 4AZ</text>
+		<text x="250" y="200" textLength="485">To find a fulfilling position where I can apply my skills and knowledge.</text>
+		<text x="250" y="230" textLength="495">Accomplished Operations executive with a successful track record overseeing</text>
+		<text x="250" y="250" textLength="477">regional Marketing ,IT,HR/training and property in company and franchise</text>
+		<text x="250" y="270" textLength="275">operations for a large chain of restaurants.</text>
+
+		<text x="283" y="302" textLength="172">Executive team leadership</text>
+		<text x="283" y="325" textLength="154">Multi-million pound P&amp;L</text>
+		<text x="283" y="346" textLength="214">management expertise for South </text>
+		<text x="283" y="368" textLength="76">East region</text>
+		<text x="283" y="392" textLength="148">Client/Vender relations</text>
+		<text x="544" y="302" textLength="147">Marketing/Product line</text>
+		<text x="544" y="325" textLength="85">development</text>
+		<text x="544" y="346" textLength="216">Staff/training policy development</text>
+		<text x="544" y="368" textLength="141">Process Improvement</text>
+
+		<text x="283" y="424" textLength="453">Initiated regional growth for 200+ restaurants through development </text>
+		<text x="283" y="446" textLength="470">of people and processes in Marketing, HR, Finance and IT to run the brand.</text>
+		<text x="283" y="469" textLength="458">Administered and executed multi-million pound P&amp;L for several locations.</text>
+		<text x="283" y="491" textLength="310">Successfully decreased food costs by £1 million.</text>
+		
+		<text x="283" y="566" textLength="460">Led operations involved in running the brand including Marketing, IT, </text>
+		<text x="283" y="588" textLength="490">HR/training, development/construction, property and P&amp;L for 200 store locations.</text>
+		<text x="283" y="609" textLength="475">Oversaw operations for all regional company and franchise locations.</text>
+		<text x="283" y="630" textLength="488">Assessed profitability of existing company processes to determine optimum </text>
+		<text x="283" y="651" textLength="384">organisational structure for maximum revenue growth.</text>		
+
+		<text x="283" y="731" textLength="478">Directed departmental alignment on strategies to create strong sales.</text>
+		<text x="283" y="753" textLength="492">Cultivated strong franchise owner relationships to achieve high operating</text>
+		<text x="283" y="775" textLength="75">standards.</text>
+		<text x="283" y="797" textLength="497">Implemented process improvements to increase customer loyalty and satisfaction.</text>
+		
+
+		<text x="330" y="828" textLength="166">| Business Management</text>		
+		<text x="249" y="872" textLength="530">Coursework includes: Speech and Communication, Sociology and Psychology</text> 
+	</g>
+	<g font-size="16" fill="#231f20" font-weight="700">
+		<text x="249" y="544" textLength="302">Pizza Hut UK &amp; Ireland | St Albans, Herts</text>
+		<text x="249" y="707" textLength="155">Café Rouge | London</text>
+		<text x="249" y="828" textLength="75">BA (Hons)</text>
+		<text x="249" y="850" textLength="314">University of Westminster – Greater London</text>
+		<text x="249" y="902" textLength="224">Distinguished Service Award</text>
+		<text x="249" y="933" textLength="472">CGMA (Chartered Global Management Accountant) conferred by </text>
+		<text x="249" y="954" textLength="464">the Chartered Institute of Management Accountants (CIMA)</text>
+	</g>
+	<g font-size="16" font-weight="700" fill="#0c8de2">
+		<text x="249" y="525" textLength="205">EXECUTIVE VICE PRESIDENT</text>
+		<text x="249" y="688" textLength="184">SENIOR VICE PRESIDENT</text>
+	</g>
+	<g font-style="italic" font-size="16" font-weight="400" fill="#231f20">
+		<text x="636" y="525" textLength="140">09/2009 to 03/2011</text>
+		<text x="636" y="688" textLength="140">08/1997 to 09/2009</text>
+		<text x="742" y="828" textLength="33">1991</text>
+		<text x="742" y="902" textLength="33">2011</text>
+		<text x="742" y="932" textLength="33">2010</text>
+	</g>	
+</svg>

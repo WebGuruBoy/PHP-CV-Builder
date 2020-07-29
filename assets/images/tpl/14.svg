@@ -1,0 +1,142 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" width="816" viewBox="0 0 816 1055" style="margin:0 auto;">
+	<defs>
+		<style>
+			.disc{fill:#4a4a4a;}
+			.ftext{font-size:13px;}
+		</style>
+	</defs>
+
+	<rect x="24" y="24" width="768" height="148" style="fill:#3c5769;" />
+	<rect x="498" y="172" width="294" height="860" style="fill:#f5f5f5;" />
+
+	<text x="222" y="148" font-family="Times New Roman" font-style="italic" font-size="36" font-weight="700" fill="#fff">CHRISTINA JOHNSON</text>
+	<text x="394" y="86" font-family="'Palatino Linotype', Palatino, serif" font-size="26" font-weight="400" fill="#fff">CJ</text>
+	<g class="disc">
+		<circle cx="41" cy="623" r="3"/>		
+		<circle cx="41" cy="684" r="3"/>
+		<circle cx="41" cy="703" r="3"/>
+		
+		<circle cx="41" cy="820" r="3"/>
+		<circle cx="41" cy="840" r="3"/>
+		<circle cx="41" cy="880" r="3"/>
+		
+		<circle cx="41" cy="413" r="3"/>
+		<circle cx="41" cy="452" r="3"/>
+		<circle cx="41" cy="492" r="3"/>
+
+		<circle cx="523" cy="375" r="3"/>
+		<circle cx="523" cy="394" r="3"/>
+		<circle cx="523" cy="434" r="3"/>
+		<circle cx="523" cy="454" r="3"/>
+		<circle cx="523" cy="474" r="3"/>
+		<circle cx="523" cy="494" r="3"/>		
+	</g>
+	<g>
+		<line x1="37" y1="252" x2="479" y2="252" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="37" y1="362" x2="479" y2="362" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="37" y1="513" x2="479" y2="513" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="37" y1="925" x2="479" y2="925" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="518" y1="316" x2="773" y2="316" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="518" y1="534" x2="773" y2="534" style="stroke:#c4c4c4;stroke-width:1" />
+		<line x1="518" y1="755" x2="773" y2="755" style="stroke:#c4c4c4;stroke-width:1" />
+
+		<line x1="380" y1="51" x2="435" y2="51" style="stroke:#fff;stroke-width:1" />
+		<line x1="380" y1="104" x2="435" y2="104" style="stroke:#fff;stroke-width:1" />
+		<line x1="381" y1="51" x2="381" y2="104" style="stroke:#fff;stroke-width:1" />
+		<line x1="434" y1="51" x2="434" y2="104" style="stroke:#fff;stroke-width:1" />
+	</g>
+	<g font-family="Times New Roman" font-style="italic" font-size="16" font-weight="700" fill="#4a4a4a">		
+		<text x="36" y="210" textLength="70">Objective</text>
+		<text x="36" y="277" textLength="164">Professional Summary</text>		
+		<text x="518" y="354" textLength="80">Core Skills</text>
+		<text x="36" y="392" textLength="104">Achievements</text>
+		<text x="36" y="543" textLength="84">Experience</text>
+		<text x="518" y="576" textLength="74">Education</text>
+		<text x="36" y="952" textLength="55">Awards</text>
+		<text x="518" y="795" textLength="98">Qualifications</text>
+	</g>
+	<g font-family="'Palatino Linotype', Palatino, serif" font-size="13" font-weight="400" fill="#4a4a4a">
+	
+		<text x="36" y="235">
+			<tspan x="36" dy="0" textLength="442">To find a fulfilling position where I can apply my skills and knowledge.</tspan>		
+		</text>
+		
+		<text x="36" y="302">
+			<tspan x="36" dy="0" textLength="442">Accomplished Operations executive with a successful track record  </tspan>
+			<tspan x="36" dy="20" textLength="407">overseeing regional Marketing, IT, HR/training and property in </tspan>
+			<tspan x="36" dy="20" textLength="394">company and franchise operations for a large chain of restaurants.</tspan> 
+		</text>
+		
+		<text x="54" y="417">
+			<tspan x="54" dy="0">Initiated regional growth for 200+ restaurants through development of    </tspan>
+			<tspan x="54" dy="20">people and processes in Marketing, HR, Finance and IT to run the brand. </tspan>
+			<tspan x="54" dy="20">Administered and executed multi-million pound P&amp;L for several </tspan> 
+			<tspan x="54" dy="20">locations.</tspan>
+			<tspan x="54" dy="20">Successfully decreased food costs by £1 million.</tspan>
+		</text>
+		<text x="54" y="628">
+			<tspan x="54" dy="0">Led operations involved in running the brand including Marketing, IT,  </tspan>
+			<tspan x="54" dy="20">HR/training, development/construction, property and P&amp;L for 200 store</tspan>
+			<tspan x="54" dy="20">locations.</tspan>
+			<tspan x="54" dy="20">Oversaw operations for all regional company and franchise locations.</tspan>
+			<tspan x="54" dy="20">Assessed profitability of existing company processes to determine  </tspan>
+			<tspan x="54" dy="20">optimum organisational structure for maximum revenue growth.</tspan>			
+		</text>
+		
+		<text x="54" y="825">
+			<tspan x="54" dy="0">Directed departmental alignment on strategies to create strong sales.</tspan>
+			<tspan x="54" dy="20">Cultivated strong franchise owner relationships to achieve high operating </tspan>
+			<tspan x="54" dy="20">standards.</tspan>
+			<tspan x="54" dy="20">Implemented process improvements to increase customer loyalty and </tspan>
+			<tspan x="54" dy="20">satisfaction.</tspan>
+		</text>
+		<text x="535" y="360">
+			<tspan x="535" dy="20">Executive team leadership</tspan>
+			<tspan x="535" dy="20">Multi-million pound P&amp;L management </tspan>
+			<tspan x="535" dy="20">expertise for South East region</tspan>
+			<tspan x="535" dy="20">Client/Vendor  relations</tspan>
+			<tspan x="535" dy="20">Marketing/product line development</tspan>
+			<tspan x="535" dy="20">Staff/training policy development</tspan>
+			<tspan x="535" dy="20">Process improvement</tspan>
+		</text>
+		
+		<text x="36" y="975">Distinguished Service Award, 2011</text>
+		<text x="517" y="820" class="ftext">
+			<tspan x="517" dy="0">2010</tspan>
+			<tspan x="517" dy="20">CGMA (Chartered Global Management  </tspan>
+			<tspan x="517" dy="20"> Accountant)conferred by the Chartered </tspan>
+			<tspan x="517" dy="20">Institute of Management Accountants</tspan>
+			<tspan x="517" dy="20">(CIMA)</tspan>
+		</text>
+
+		<text x="36" y="581">St Albans, Herts</text>
+		<text x="36" y="601" font-style="italic" textLength="101">09/2009 - 03/2011</text>
+		<text x="36" y="780" >London</text>
+		<text x="36" y="800" font-style="italic" textLength="101">08/1997 - 09/2009</text>
+
+		<text x="517" y="600">1991</text>
+		<text x="517" y="640">Greater London</text>
+		<text x="517" y="680">Coursework includes: </text>
+		<text x="517" y="700">Speech and Communication, </text>
+		<text x="517" y="720">Sociology and Psychology</text>
+		
+		
+		<text x="517" y="210">
+			<tspan x="517" dy="0">cjohnson111@live.co.uk</tspan>
+			<tspan x="536" dy="20">017-277-56423</tspan>
+			<tspan x="536" dy="20">079-845-98985</tspan>
+			<tspan x="517" dy="20">24 Harbour Lane, St Albans, </tspan>
+			<tspan x="517" dy="20">Herts AL13 4AZ</tspan>
+		</text>
+	</g>
+
+	<g font-family="'Palatino Linotype', Palatino, serif" font-size="13" font-weight="700" fill="#4a4a4a">
+		<text x="36" y="562">Pizza Hut UK &amp; Ireland - Executive Vice President </text>
+		<text x="36" y="760" textLength="228">Café Rouge - Senior Vice President</text>
+		<text x="517" y="229">H:</text>
+		<text x="517" y="249">C:</text>
+		<text x="517" y="620" textLength="153">University of Westminster </text>
+		<text x="517" y="660">BA (Hons): Business Management</text>							
+	</g>
+</svg>

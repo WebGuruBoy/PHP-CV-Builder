@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="816" height="1055" viewBox="0 0 816 1055" style="margin:0 auto; __background:url(img/hrt1.png) no-repeat 0 0;">
+	<defs>
+		<style>
+			.h1{font-family:Times New Roman; fill:#003300; font-weight:bold; __fill:red}
+			.ffi {font-family:Times New Roman;__fill:red}
+			.p{font-family:Times New Roman; font-size:13px; fill:#333; __fill:red}
+			.pb {font-family:Times New Roman; font-size:13px; font-weight:bold; fill:#333; __fill:red}
+			.h2 {font-family:Times New Roman; font-size:13px; font-variant:small-caps; fill:#003300; font-weight:bold; __fill:red}
+			.li-disc {fill:#000000; __fill:red}
+			.graytext {fill:#999ab3; __fill:red}
+			.italic {font-style:italic;}
+
+		</style>
+	</defs>
+
+	<text x="286" y="58" class="h1" style="font-size:31px">C
+		<tspan style="font-size:23px" dx="-8">HRISTINA</tspan>
+		<tspan style="font-size:32px" dx="10">J</tspan>
+		<tspan style="font-size:23px" dx="-8">OHNSON</tspan>
+	</text>
+
+
+    <text x="286" y="82" class="p">24 Harbour Lane , St Albans , Herts AL13 4AZ
+		<tspan x="235" y="100" dx="0">Home: 01727 756423 - </tspan>
+		<tspan dx="0">Mobile: 07984 598985 - </tspan>
+		<tspan dx="0">cjohnson111@live.co.uk</tspan>
+	</text>
+	
+	<text x="35" y="130" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">O</tspan>BJECTIVE</text>
+	<line x1="130" y1="130" x2="784" y2="130" stroke="#000000" stroke-width="1"/>
+
+	<text x="175" y="155" class="p">To find a fulfilling position where I can apply my skills and knowledge.</text>
+	
+	<text x="35" y="185" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">P</tspan>ROFESSIONAL <tspan dx="0" dy="0" style="font-size:19px;">S</tspan>UMMARY</text>
+	<line x1="232" y1="185" x2="784" y2="185" stroke="#000000" stroke-width="1"/>
+
+	<text x="175" y="210" class="p">Accomplished Operations executive with a successful track record overseeing regional Marketing, IT, 
+		<tspan x="175" y="210" dx="0" dy="21">HR/training and property in company and franchise operations for a large chain of restaurants.</tspan>
+	</text>
+
+	<text x="35" y="255" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">S</tspan>KILLS</text>
+	<line x1="101" y1="255" x2="784" y2="255" stroke="#000000" stroke-width="1"/>
+
+
+	<circle cx="192" cy="275" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="296" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="338" r="3" class="li-disc"></circle>
+	<circle cx="496" cy="275" r="3" class="li-disc"></circle>
+	<circle cx="496" cy="296" r="3" class="li-disc"></circle>
+	<circle cx="496" cy="317" r="3" class="li-disc"></circle>
+
+	<text x="206" y="280" class="p">Executive team leadership
+		<tspan x="206" y="280" dx="0" dy="21">Multi-million pound P&amp;L management expertise </tspan>
+		<tspan x="206" y="280" dx="0" dy="42">for South East region</tspan>
+		<tspan x="206" y="280" dx="0" dy="63">Client/Vendor relations</tspan>
+	</text>
+		
+	<text x="510" y="280" class="p">Marketing/product line development
+		<tspan x="510" y="280" dx="0" dy="21">Staff/training policy development</tspan>
+		<tspan x="510" y="280" dx="0" dy="42">Process improvement</tspan>
+	</text>
+	
+	<text x="35" y="370" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">A</tspan>CHIEVEMENTS</text>
+	<line x1="161" y1="370" x2="784" y2="370" stroke="#000000" stroke-width="1"/>
+
+
+	<circle cx="192" cy="390" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="432" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="453" r="3" class="li-disc"></circle>	
+
+	<text x="206" y="395" class="p">Initiated regional growth for 200+ restaurants through development of people and processes in Marketing, 
+		<tspan x="206" y="395" dx="0" dy="21">HR, Finance and IT to run the brand. </tspan>
+		<tspan x="206" y="395" dx="0" dy="42">Administered and executed multi-million pound P&amp;L for several locations.</tspan>
+		<tspan x="206" y="395" dx="0" dy="63">Successfully decreased food costs by £1 million.</tspan>
+	</text>		
+	
+
+	
+	<text x="35" y="485" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">E</tspan>XPERIENCE</text>
+	<line x1="145" y1="485" x2="784" y2="485" stroke="#000000" stroke-width="1"/>
+
+	<text x="35" y="510" class="p">09/2009 to 03/2011
+		<tspan dx="33" dy="0" class="pb">Executive Vice President</tspan>
+	</text>	
+	<text x="175" y="530" class="p"><tspan class="pb">Pizza Hut UK &amp; Ireland – </tspan>St Albans, Herts</text>
+
+	<circle cx="192" cy="544" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="586" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="607" r="3" class="li-disc"></circle>
+	
+
+	<text x="205" y="549" class="p">Led operations involved in running the brand including Marketing, IT, HR/training, development/construction, 
+		<tspan x="205" y="549" dx="0" dy="21">property and P&amp;L for 200 store locations.</tspan>
+		<tspan x="205" y="549" dx="0" dy="42">Oversaw operations for all regional company and franchise locations.</tspan>
+		<tspan x="205" y="549" dx="0" dy="63">Assessed profitability of existing company processes to determine optimum organisational structure for </tspan>
+		<tspan x="205" y="549" dx="0" dy="84">maximum revenue growth.</tspan>		
+	</text>
+
+	<text x="35" y="655" class="p">08/1997 to 09/2009
+		<tspan x="175" y="655" class="pb">Senior Vice President</tspan>
+		<tspan x="175" y="655" dx="0" dy="21" class="pb">Café Rouge – </tspan>
+		<tspan x="175" y="655" dx="80" dy="21">London</tspan>
+	</text>	
+
+	<circle cx="192" cy="694" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="716" r="3" class="li-disc"></circle>
+	<circle cx="192" cy="735" r="3" class="li-disc"></circle> 
+
+	<text x="205" y="698" class="p">Directed departmental alignment on strategies to create strong sales.
+		<tspan x="205" y="695" dx="0" dy="25">Cultivated strong franchise owner relationships to achieve high operating standards.</tspan>
+		<tspan x="205" y="695" dx="0" dy="45">Implemented process improvements to increase customer loyalty and satisfaction.</tspan>		
+	</text>
+	
+	<text x="35" y="775" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">E</tspan>DUCATION</text>
+	<line x1="135" y1="775" x2="784" y2="775" stroke="#000000" stroke-width="1"/>
+	<text x="35" y="800" class="p">1991
+		<tspan x="175" y="800" class="pb">BA (Hons): Business Management</tspan>
+		<tspan x="175" y="800" dx="0" dy="21" class="pb">University of Westminster – </tspan>
+		<tspan x="175" y="800" dx="160" dy="21">Greater London</tspan>
+		<tspan x="175" y="800" dx="0" dy="41" class="p">Coursework includes: Speech and Communication, Sociology and Psychology</tspan>
+	</text>	
+	
+	<text x="35" y="865" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">A</tspan>WARDS</text>
+	<line x1="115" y1="865" x2="784" y2="865" stroke="#000000" stroke-width="1"/>	
+		<text x="175" y="890" class="p">Distinguished Service Award, 2011	</text>	
+		
+	<text x="35" y="910" class="h2"><tspan dx="0" dy="0" style="font-size:19px;">Q</tspan>UALIFICATIONS</text>
+	<line x1="170" y1="910" x2="784" y2="910" stroke="#000000" stroke-width="1"/>	
+	<text x="175" y="935" class="p">CGMA (Chartered Global Management Accountant) conferred by the Chartered Institute of Management 
+	<tspan x="175" y="935" dy="20">Accountants (CIMA), 2010</tspan>
+	</text>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+</svg>

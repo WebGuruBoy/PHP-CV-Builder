@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="816" height="1055" viewBox="0 0 816 1055" text-rendering="geometricPrecision"  style="margin:0 auto; _background:url(Updated-MPR5-2X.png) no-repeat 0 0; ">
+	<defs>
+		<style>
+			@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,500');			
+			.ffrc{font-family: 'Roboto Condensed', sans-serif;}
+			.ffr{font-family:'Roboto',sans-serif;}
+			.name{fill:#3f3f40;font-size:32px;}		
+			.address{fill:#0c0907;font-size:15px; color:#0c0907; font-weight:400; text-transform:uppercase;}
+			.dashed-border{ stroke:#4e1a85; stroke-width: 2;}
+			.heading{fill:#0c0708; font-size:16px; font-weight:600; font-family: 'Roboto Condensed', sans-serif;}
+			.section-text {font-size:14px;font-family: 'Roboto Condensed', sans-serif; fill:#0c0708;}
+			.disc{fill:black;}
+			.skill-text {font-size:14px; font-family: 'Roboto Condensed', sans-serif;fill:#0c0708;}
+			.work-history-heading {font-size:15px; font-family: 'Roboto Condensed', sans-serif;fill:#0c0708;}
+			
+		</style>
+	</defs>
+	<line x1="78" y1="40" x2="736" y2="40" stroke-width="18" stroke="#663399" />
+	<text x="260" y="100" class="name ffr">CHRISTINA JOHNSON</text>
+	<text x="222" y="126" class="address ffrc">
+		<tspan x="275" dy="2">24 HARBOUR LANE , ST ALBANS , HERTS AL13 4AZ </tspan> 
+		<tspan x="225" dy="21" class="address ffrc">H:017-277-56423 | M: 079-845-98985 | cjohnson111@live.co.uk</tspan>
+	</text>
+	 
+   <line stroke-dasharray="2, 3"  x1="78" y1="190" x2="736" y2="190" class="dashed-border" />
+	 
+	 <text x="78" y="200" class="section-text">
+		<tspan x="78" dy="18">Accomplished Operations executive with a successful track record overseeing regional Marketing,IT, </tspan>
+		<tspan x="78" dy="18"> HR/training and property in company and franchise operations for a large chain of restaurants.</tspan>
+		<tspan x="78" dy="18">  </tspan>
+		 
+	</text> 
+	 <line stroke-dasharray="2, 3"  x1="78" y1="260" x2="736" y2="260" class="dashed-border" /> 
+ 
+	 <text x="78" y="302" class="heading">SKILLS</text>	
+		  <circle cx="93" cy="320" r="3" class="disc"></circle>
+		 <circle cx="93" cy="338" r="3" class="disc"></circle>
+		<circle cx="93" cy="375" r="3" class="disc"></circle>    
+	 <text x="112" y="308" class="skill-text">
+	  
+		<tspan x="110" dy="18">Executive team leadership</tspan>
+			<tspan x="110" dy="18">Multi-million pound P&amp;L management  </tspan>
+			<tspan x="110" dy="18">expertise for South East Region</tspan>
+			<tspan x="110" dy="18">Client/vendor relations</tspan>
+	 </text> 
+
+ 
+	 <circle cx="424" cy="320" r="3" class="disc"></circle>
+	 <circle cx="424" cy="338" r="3" class="disc"></circle>
+      <circle cx="424" cy="358" r="3" class="disc"></circle> 	
+	 <text x="441" y="308" class="skill-text">
+	    
+			<tspan dy="18">Marketing/product line development</tspan>
+			<tspan x="441" dy="18">Staff/training policy development</tspan>
+			<tspan x="441" dy="18">Process improvement</tspan>
+	 </text> 	 
+	
+	 <text x="78" y="410" class="heading">ACHIEVEMENTS</text>
+	  <circle cx="93" cy="428" r="3" class="li-disc"></circle>
+	 <circle cx="93" cy="465" r="3" class="li-disc"></circle>
+	<circle cx="93" cy="482" r="3" class="li-disc"></circle> 
+   <text x="110" y="415" class="skill-text">
+		 
+		<tspan x="111" dy="18">Initiated regional growth for 200+ restaurants through development of people and processes in </tspan>
+		<tspan x="111" dy="18">Marketing, HR, Finance and IT to run the brand.</tspan>
+		<tspan x="111" dy="18">Administered and executed multi-million pound P&amp;L for several locations. </tspan>
+		<tspan x="111" dy="18">Successfully decreased food costs by £1 million.</tspan>
+	 </text> 
+	  <text x="78" y="520" class="heading">EXPERIENCE</text> 
+     
+	  <text x="78" y="540" class="work-history-heading">PIZZA HUT UK &amp; IRELAND</text>  
+	 <text x="78" y="560" class="work-history-heading">Executive Vice President // St Albans, Herts // September 2009 - March 2011</text> 
+	<circle cx="93" cy="578" r="3" class="li-disc"></circle>
+	 <circle cx="93" cy="614" r="3" class="li-disc"></circle>
+	<circle cx="93" cy="632" r="3" class="li-disc"></circle> 
+	  <text x="110" y="565" class="skill-text">
+		 
+		<tspan x="111" dy="18">Led operations involved in running the brand including Marketing, IT, HR/training,</tspan>
+		<tspan x="111" dy="18"> development/construction, property and P&amp;L for 200 store locations. </tspan>
+		<tspan x="111" dy="18">Oversaw operations for all regional company and franchise locations. </tspan>
+		<tspan x="111" dy="18">Assessed profitability of existing company processes to determine optimum organisational structure </tspan>
+		<tspan x="111" dy="18">for maximum revenue growth.</tspan>
+	 </text> 
+ 
+     <text x="78" y="680" class="work-history-heading">CAFÉ ROUGE</text> 
+	 <text x="78" y="698" class="work-history-heading">Senior Vice President // London// August 1997 - September 2009</text> 
+	 <circle cx="93" cy="718" r="3" class="li-disc"></circle>
+	 <circle cx="93" cy="736" r="3" class="li-disc"></circle>
+	<circle cx="93" cy="754" r="3" class="li-disc"></circle>  
+     <text x="110" y="705" class="skill-text">
+			<tspan x="110" dy="18">Directed departmental alignment on strategies to create strong sales.</tspan>
+		    <tspan x="110" dy="18">Cultivated strong franchise owner relationships to achieve high operating standards.  </tspan>
+		    <tspan x="110" dy="18">Implemented process improvements to increase customer loyalty and satisfaction.</tspan>
+	</text> 
+	<text x="78" y="788" class="heading">EDUCATION</text>
+    <text x="26" y="790" class="skill-text">
+	     <tspan x="78" dy="18">BA (HONS): Business Management  </tspan>
+		  <tspan x="78" dy="18">University of Westminster // Greater London// 1991</tspan>
+		  <tspan x="78" dy="18">Coursework includes: Speech and Communication, Sociology and Psychology </tspan>
+	 </text>	
+	   <text x="78" y="852">
+	  <tspan x="78" dy="22" class="heading">AWARDS</tspan>
+	  <tspan x="78" dy="20" class="skill-text">Distinguished Service Award, 2011</tspan>
+	  </text>
+	  <text x="78" y="922">
+		<tspan class="heading">QUALIFICATIONS</tspan>
+		 <tspan x="78" dy="20" class="skill-text">CGMA (Chartered Global Management Accountant) conferred by the Chartered Institute of Management</tspan>
+	 </text>   
+	 
+</svg>

@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto; padding:8px 0 0 8px;">
+    <defs>
+        <style>
+            .disc{fill:black;}
+        </style>
+    </defs>
+
+    <g class="disc">
+        <circle cx="130" cy="502" r="3"/>
+        <circle cx="130" cy="539" r="3"/>
+        <circle cx="130" cy="561" r="3"/>
+
+        <circle cx="130" cy="650" r="3"/>
+        <circle cx="130" cy="685" r="3"/>
+        <circle cx="130" cy="708" r="3"/>
+
+        
+        <circle cx="130" cy="373" r="3"/>
+        <circle cx="130" cy="394" r="3"/>
+        <circle cx="130" cy="432" r="3"/>
+        
+        <circle cx="460" cy="373" r="3"/>
+        <circle cx="460" cy="396" r="3"/>
+        <circle cx="460" cy="417" r="3"/>
+
+        <circle cx="130" cy="790" r="3"/>
+        <circle cx="130" cy="812" r="3"/>
+        <circle cx="130" cy="834" r="3"/>
+    </g>
+    <g stroke="#434d54" stroke-width="1" fill="#fff">
+        <circle cx="83" cy="192" r="6" />
+        <circle cx="83" cy="263" r="6" />
+        <circle cx="83" cy="349" r="6" />
+        <circle cx="83" cy="474" r="6" />
+        <circle cx="83" cy="597" r="6" />
+        <circle cx="83" cy="874" r="6" />
+        <circle cx="83" cy="980" r="6" />
+    </g>
+    <g>
+        <line x1="83" y1="198" x2="83" y2="258" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="268" x2="83" y2="344" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="355" x2="83" y2="467" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="480" x2="83" y2="592" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="603" x2="83" y2="870" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="880" x2="83" y2="975" style="stroke:#434d54;stroke-width:1" />
+        <line x1="83" y1="984" x2="83" y2="1020" style="stroke:#434d54;stroke-width:1" />
+    </g>
+    <g font-family="Verdana, Geneva, sans-serif" font-size="40" font-weight="700" fill="#343b40">
+        <text x="107" y="69">CHRISTINA</text>
+        <text x="107" y="110">JOHNSON</text>
+    </g>
+    <g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700" fill="#343b40">
+        <text x="107" y="199" textLength="">OBJECTIVE</text>
+        <text x="107" y="269" textLength="245">PROFESSIONAL SUMMARY</text>
+        <text x="107" y="355" textLength="69">SKILLS</text>
+        <text x="107" y="479" textLength="120">ACHIEVEMENTS</text>
+        <text x="107" y="602" textLength="120">EXPERIENCE</text>
+        <text x="107" y="880" textLength="112">EDUCATION</text>
+        <text x="107" y="985">AWARDS</text>
+    </g>
+    <g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="400" fill="#343b40">
+        <text x="107" y="130" textLength="417">cjohnson@live.co.uk | H: 01727 756423 | M: 07984 598985</text>
+        <text x="107" y="150" textLength="314">24 Harbour Lane, St Albans, Herts, AL13 4AZ</text>
+        
+        <text x="107" y="228">To find a fulfilling position where I can apply my skills and knowledge.</text>
+        
+        <text x="107" y="293" textLength="631">Accomplished Operations executive with a successful track record overseeing regional</text>
+        <text x="107" y="310" textLength="649">Marketing ,IT,HR/training and property in company and franchise operations for a large</text>
+        <text x="107" y="327" textLength="155">chain of restaurants.</text>
+
+        <text x="153" y="380" textLength="199">Executive team leadership</text>
+        <text x="153" y="400" textLength="280">Multi-million pound P&amp;L management</text>
+        <text x="153" y="418" textLength="230">expertise for South East region</text>
+        <text x="153" y="438" textLength="173">Client/Vender relations</text>
+        <text x="483" y="380" textLength="269">Marketing/Product line development</text>
+        <text x="483" y="402" textLength="250">Staff/training policy development</text>
+        <text x="483" y="422" textLength="158">Process Improvement</text>
+        
+        <text x="155" y="508">
+            <tspan>Initiated regional growth for 200+ restaurants through development of  </tspan>
+            <tspan x="155" dy="15">people and processes in Marketing, HR, Finance and IT to run the brand.</tspan>
+            <tspan x="155" dy="22">Administered and executed multi-million pound P&amp;L for several locations. </tspan>
+            <tspan x="155" dy="22">Successfully decreased food costs by £1 million.</tspan>
+        </text> 
+        
+        <text x="155" y="655">
+            <tspan>Led operations involved in running the brand including Marketing, IT, HR/training,</tspan>
+            <tspan x="155" dy="16">development/construction, property and P&amp;L for 200 store locations.</tspan>
+            <tspan x="155" dy="21">Oversaw operations for all regional company and franchise locations. </tspan>
+            <tspan x="155" dy="22">Assessed profitability of existing company processes to determine optimum</tspan>
+            <tspan x="155" dy="20">organisational structure for maximum revenue growth.</tspan>
+        </text> 
+       
+        <text x="155" y="796">
+            <tspan>Directed departmental alignment on strategies to create strong sales.</tspan>
+            <tspan x="155" dy="22">Cultivated strong franchise owner relationships to achieve high operating standards.</tspan>
+            <tspan x="155" dy="22">Implemented process improvements to increase customer loyalty and satisfaction. </tspan>
+        </text> 
+
+
+        <text x="107" y="908" textLength="335">University of Westminster  - Greater London</text>
+        <text x="219" y="927" textLength="211">: Business Management,</text>
+        <text x="107" y="948" textLength="570">Coursework includes: Speech and Communication, Sociology and Psychology</text>
+
+        <text x="315" y="627" textLength="295">| Pizza Hut UK &amp; Ireland - St Albans, Herts</text>
+        <text x="282" y="768" textLength="190">| Café Rouge - London</text>
+        
+        <text x="107" y="1007">Distinguished Service Award, 2011</text>
+    </g>
+    <g font-family="Verdana, Geneva, sans-serif" font-size="16" font-weight="700" fill="#343b40">
+        <text x="107" y="627" textLength="200">Executive Vice President</text>
+        <text x="107" y="768" textLength="171">Senior Vice President</text>
+        <text x="107" y="927" textLength="107">BA (Hons)</text>
+    </g>
+    <g font-family="Verdana, Geneva, sans-serif" font-style="italic" font-size="16" font-weight="400" fill="#343b40" class="ls-mp7">
+        <text x="630" y="627" textLength="144">09/2009 to 03/2011</text>
+        <text x="625" y="768" textLength="147">08/1997 to 09/2009</text>
+        <text x="730" y="908" textLength="42">1991</text>
+    </g>	
+</svg>

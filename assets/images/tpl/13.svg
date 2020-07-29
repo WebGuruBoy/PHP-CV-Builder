@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto;">
+	<defs>
+		<style>
+			.disc{fill:#4a4a4a;}
+		</style>
+	</defs>
+
+	<rect x="0" y="0" width="816" height="94" style="fill:rgba(80,227,194,0.32);" />
+	<rect x="195" y="61" rx="3" ry="3" width="423" height="67" style="fill:transparent;stroke:#505050; stroke-width:1;" />
+
+	<text x="50%" y="110" text-anchor="middle" font-family="Trebuchet MS" font-style="italic" font-size="44" font-weight="700" fill="#4a4a4a">Christina Johnson</text>
+
+	<g class="disc">
+
+	    <circle cx="63" cy="415" r="3"/>		
+		<circle cx="63" cy="449" r="3"/>
+		<circle cx="63" cy="466" r="3"/>
+
+
+		<circle cx="63" cy="581" r="3"/>		
+		<circle cx="63" cy="633" r="3"/>
+		<circle cx="63" cy="650" r="3"/>
+		<!-- <circle cx="63" cy="572" r="3"/>
+		<circle cx="63" cy="607" r="3"/>
+		<circle cx="63" cy="642" r="3"/> -->
+
+		<circle cx="63" cy="739" r="3"/>
+		<circle cx="63" cy="756" r="3"/>
+		<circle cx="63" cy="790" r="3"/>
+
+		<circle cx="558" cy="262" r="3"/>
+		<circle cx="558" cy="279" r="3"/>
+		<circle cx="558" cy="296" r="3"/>
+		<circle cx="558" cy="313" r="3"/>
+		<circle cx="558" cy="331" r="3"/>
+		<circle cx="558" cy="348" r="3"/>
+		<!-- <circle cx="558" cy="366" r="3"/>
+		<circle cx="558" cy="383" r="3"/> -->
+	</g>
+
+	<g font-family="Trebuchet MS" font-style="italic" font-size="14" font-weight="700" fill="#3aaaa5">
+	
+		<text x="59" y="235" textLength="72">OBJECTIVE</text>
+		<text x="59" y="285" textLength="156">PROFESSIONAL SUMMARY</text>
+		<text x="59" y="385" >ACHIEVEMENTS</text>
+		<text x="59" y="510" textLength="96">WORK HISTORY</text>
+		<text x="553" y="234" textLength="40">SKILLS</text>
+		<text x="553" y="402" textLength="72">EDUCATION</text>
+		<text x="553" y="576" >AWARDS</text>
+		 <text x="553" y="661" >QUALIFICATIONS</text>
+	</g>
+
+	<g font-family="Trebuchet MS" font-size="13" font-weight="400" fill="#4a4a4a">
+		<text x="50%" text-anchor="middle" y="162">cjohnson@live.co.uk | H: 01727 756423 | C: 07984 598985 | 24 Harbour Lane, St Albans, Herts, AL13 4AZ</text>
+
+        <text x="59" y="255" textLength="416">To find a fulfilling position where I can apply my skills and knowledge.</text>
+
+		<text x="59" y="315" textLength="416">Accomplished Operations executive with a successful track record</text>
+		<text x="59" y="332" textLength="398">overseeing regional Marketing, IT, HR/training and property in</text>
+		<text x="59" y="350" textLength="435">company and franchise operations for a large chain of restaurants.</text>
+		<!-- <text x="59" y="317" textLength="398">performance through P&amp;L, merchandising, staff management, loss</text>
+		<text x="59" y="335" textLength="278">control and inventory management initiatives.</text> -->
+
+		<text x="215" y="542" textLength="106">- St Albans, Herts</text>
+		<text x="139" y="700" textLength="46">London</text>
+		<text x="59" y="560" font-style="italic" textLength="130">Executive Vice President</text>
+		<text x="190" y="560">|</text>
+		<text x="200" y="560" font-style="italic" textLength="109">09/2009 - 03/2011</text>
+		<text x="59" y="717" font-style="italic" textLength="131">Senior Vice President</text>
+		<text x="193" y="717">|</text>
+		<text x="203" y="717" font-style="italic" textLength="111">08/1997 - 09/2009</text>
+
+		<text x="77" y="419">Initiated regional growth for 200+ restaurants through development of people </text>
+		<text x="77" y="436">people and processes in Marketing, HR, Finance and IT to run the brand.</text>
+		<text x="77" y="453">Administered and executed multi-million pound P&amp;L for several locations.</text>
+		<text x="77" y="470">Successfully decreased food costs by £1 million.</text>
+
+
+		<text x="77" y="585" textLength="375">Led operations involved in running the brand including Marketing, </text>
+		<text x="77" y="602" textLength="418">IT, HR/training, development/construction, property and P&amp;L for</text>
+		<text x="77" y="619" textLength="110">200 store locations.</text>
+		<text x="77" y="637" textLength="419">Oversaw operations for all regional company and franchise locations.</text>
+		<!-- <text x="77" y="524" textLength="152">environment in 18 stores.</text> -->
+		<text x="77" y="654" textLength="416">Assessed profitability of existing company processes to determine optimum</text>
+		<text x="77" y="671" textLength="330">organisational structure for maximum revenue growth.</text>
+		<!-- <text x="77" y="576" textLength="381">Cultivated strong business relationships with customers to drive</text>
+		<text x="77" y="593" textLength="140">business developments.</text>
+		<text x="77" y="610" textLength="415">Planned and executed floor merchandising initiatives in collaboration</text>
+		<text x="77" y="628" textLength="192">with merchandise management.</text>
+		<text x="77" y="645" textLength="307">Ensure store is prepared for internal audits through</text>
+		<text x="77" y="662" textLength="395">analysis/preparation of quality assurance and Inventory statistics.</text> -->
+
+		<text x="77" y="742" textLength="407">Directed departmental alignment on strategies to create strong sales.</text>
+		<!-- <text x="77" y="760" textLength="385">store in compliance with currenct company policies/procedures.</text> -->
+		<text x="77" y="760"  textLength="392">Cultivated strong franchise owner relationships to achieve high operating</text>
+		<text x="77" y="777" >standards.</text>
+		<text x="77" y="794" textLength="419">Implemented process improvements to increase customer loyalty and</text>
+		<text x="77" y="812" >satisfaction.</text>
+		<!-- <text x="77" y="846" textLength="29">files.</text> -->
+
+		<text x="571" y="265" textLength="158">Executive team leadership</text>
+		<text x="571" y="282" textLength="180">Marketing/product line development</text>
+		<text x="571" y="300" textLength="175">Staff/training policy development</text>
+		<text x="571" y="317" textLength="110">Process improvement</text>
+		<text x="571" y="335" textLength="134">Client/Vendor relations</text>
+		<text x="571" y="353" textLength="190">Multi-million pound P&amp;L management</text>
+		<text x="571" y="370" textLength="160">expertise for South East region</text>
+		<!-- <text x="571" y="387" textLength="175">Strong verbal communication</text> -->
+
+		<text x="553" y="450" >Greater London</text>
+		<text x="553" y="467" >1991</text>
+		<text x="615" y="485" >: Business Management</text>
+		<text x="553" y="502" >Coursework includes:</text>
+		<text x="553" y="519" >Speech and Communication,</text>
+		<text x="553" y="536" >Sociology and Psychology</text>
+		<!-- <text x="553" y="610" >Un-Operations Management</text>
+		<text x="553" y="627" >Listen and Vocal</text> -->
+		<!-- <text x="553" y="664" textLength="29">2006</text> -->
+
+		<text x="553" y="610" >Distinguished Service Award,</text>
+		<text x="553" y="627" >2011</text>
+
+		<text x="553" y="691" >CGMA (Chartered Global Management</text>
+		<text x="553" y="708" >Accountant) conferred by the</text>
+		<text x="553" y="725" >Chartered Institute of Management</text>
+		<text x="553" y="742" >Accountants (CIMA), 2010</text>
+
+	</g>
+	<g font-family="Trebuchet MS" font-size="13" font-weight="700" fill="#4a4a4a">
+		<text x="59" y="542" textLength="150">Pizza Hut UK &amp; Ireland</text>
+		<text x="59" y="700" textLength="76">Café Rouge - </text>
+
+		<text x="553" y="433" >University of Westminster</text>
+		<text x="553" y="485" >BA (Hons)</text>
+		<!-- <text x="553" y="540" textLength="92">Administration</text> -->
+		<!-- <text x="553" y="688" textLength="145">Certified Retail District</text>
+		<text x="553" y="705" textLength="134">Manager, Verizon Inc.</text> -->
+	</g>
+</svg>
